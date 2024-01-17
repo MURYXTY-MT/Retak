@@ -1,4 +1,4 @@
 # chack fb
-# git clone https://github.com/MURYXTY-MT/chackfb
+# git clone https://github.com/Muryokusho/chackfb
 # cd chackfb
 # python LEON.py
